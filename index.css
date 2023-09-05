@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/5212348/pexels-photo-5212348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+     background-repeat: no-repeat; 
+    background-size: 1367px 675px;
+}
+.paragraph{
+    background-color: rgb(0,0,0,0.1);
+    border-radius: 10px;
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
+    margin-top: 200px;
+    text-align: center;
+    padding: 25px;
+}
+.paragraph:hover{
+    font-size: 21px;
+}
